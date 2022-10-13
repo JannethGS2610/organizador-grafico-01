@@ -8,5 +8,4 @@
 
 -------------------------------------
 ### INTEGRANTES:
-Janneth Guamán
-Francisco Riofrio
+Janneth Guamán - Francisco Riofrio
